@@ -1,4 +1,13 @@
-/* You'll probably want to add some styles here */
-#container {
+div .container .table {
 	height:800px;
+	font-size:30px;
+	font-style:bold;
+	font-family:Helvetica;
+}
+
+h1{ 
+ 	font-size: 80px;
+ 	font-family:Helvetica;
+ 	text-align: center;
+
 }
